@@ -132,7 +132,7 @@ The [**Thomas Rhythm**](https://nomaxi.github.io/Thomas-Rhythm-landing) landing 
 
 MIT License
 
-Copyright (c) 2018 Max Novik
+Copyright (c) 2018 Max Novik max_novik@ukr.net
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
